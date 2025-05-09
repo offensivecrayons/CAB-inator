@@ -3,7 +3,7 @@ Are you tired of your change board constantly having to type out “rejected” 
 
 Requirements:
  Arduino Leonardo (or any other Ardunio that can process USB signal as not every Ardunio that has a USB port can process USB signals)
-10K resistor
+10K resistor,
 USB C cable (or suitable interface cable for your Leonardo)
 A button (preferably momentary but you’re the boss, boss)
 
